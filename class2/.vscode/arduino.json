@@ -1,0 +1,7 @@
+{
+    "configuration": "flash=2097152_0,freq=133,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,ipbtstack=ipv4only,uploadmethod=picoprobe_cmsis_dap",
+    "board": "rp2040:rp2040:rpipico",
+    "port": "/dev/ttyACM0",
+    "sketch": "class2.ino",
+    "output": "build"
+}
